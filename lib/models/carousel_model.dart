@@ -31,6 +31,7 @@ final carouselModel = [
                 style: AppTextStyle.blackF8W600TextStyle),
           )
         ],
+
       )),
   CarouselModel(
       image: 'food',
